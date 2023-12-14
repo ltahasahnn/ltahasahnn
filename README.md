@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [POS - Web](https://github.com/ltahasahnn/POS-Web)
 
-- 🌱 I’m currently learning **React, Vue**
+- 🌱 I’m currently learning **React
 
 - 💬 Ask me about **React**
 
