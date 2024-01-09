@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taha</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on [POS - Web](https://github.com/ltahasahnn/POS-Web)
+- 🔭 I’m currently working on *-*
 
 - 🌱 I’m currently learning **React**
 
