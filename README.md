@@ -20,7 +20,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="[https://cdn.worldvectorlogo.com/logos/nextjs-2.svg](https://media.licdn.com/dms/image/v2/C5622AQEaSzZNrNFgUQ/feedshare-shrink_800/feedshare-shrink_800/0/1678383920919?e=2147483647&v=beta&t=WR9KSyu0lG5zzgDWA7Pp31sDOl_AHDlHon610uU_Eog)" alt="nextjs" width="40" height="40"/> 
+    <img src="https://camo.githubusercontent.com/7e1a83ae71962489858eb27dd7ef620ab637088d9c3f2deb07e72052dee26505/68747470733a2f2f75692d6c69622e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032312f31322f6e6578746a732d626f696c6572706c6174652d6c6f676f2e706e67" alt="nextjs" width="40" height="40"/> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
