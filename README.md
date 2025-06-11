@@ -48,7 +48,8 @@
 &nbsp;
 
 <div align="left">
-  <a href="https://wakatime.com/@018c1718-78e3-4100-9eda-35598edd25bc"><img src="https://wakatime.com/badge/user/018c1718-78e3-4100-9eda-35598edd25bc.svg" alt="Total time coded since Nov 28 2023" /></a>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ltahasahnn&layout=compact&v=2" />
+
 </div>
 
 
