@@ -14,7 +14,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="mailto:ltahasahnn@gmail.com" target="_blank" rel="noreferrer">
-    <img src="[https://cdn-icons-png.flaticon.com/512/561/561127.png](https://icon2.cleanpng.com/20180320/vwe/avevnixls.webp](https://e7.pngegg.com/pngimages/664/253/png-clipart-email-logo-outlook-com-graphics-email-miscellaneous-angle.png)" alt="email" width="30" height="30" />
+    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="email" width="30" height="30" />
   </a>
 </p>
 
