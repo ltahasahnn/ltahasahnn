@@ -48,7 +48,7 @@
 &nbsp;
 
 <div align="left">
-  <img src="https://wakatime.com/badge/user/018c1718-78e3-4100-9eda-35598edd25bc.svg" />
+  <img src="[![wakatime](https://wakatime.com/badge/user/018c1718-78e3-4100-9eda-35598edd25bc.svg)](https://wakatime.com/@018c1718-78e3-4100-9eda-35598edd25bc)" />
 </div>
 
 
