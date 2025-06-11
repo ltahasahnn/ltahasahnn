@@ -45,7 +45,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
   <a href="https://astro.build/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/withastro/astro/main/assets/social/icon.png" alt="astro" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="astro" width="40" height="40"/>
   </a>
 </p>
 
