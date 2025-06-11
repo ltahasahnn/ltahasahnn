@@ -43,9 +43,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
+<div align="left">
+  aaa
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ltahasahnn&show_icons=true&locale=en&layout=compact" alt="ltahasahnn" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ltahasahnn&show_icons=true&locale=en" alt="ltahasahnn" /></p>
 
 
