@@ -51,7 +51,9 @@
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://camo.githubusercontent.com/7e1a83ae71962489858eb27dd7ef620ab637088d9c3f2deb07e72052dee26505/68747470733a2f2f75692d6c69622e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032312f31322f6e6578746a732d626f696c6572706c6174652d6c6f676f2e706e67" alt="nextjs" width="40" height="40"/> 
+  </a>
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   <img width="6" />
