@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taha</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A Front-end Web developer</h3>
 
 - 📫 How to reach me **ltahasahnn@gmail.com**
 
