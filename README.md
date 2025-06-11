@@ -14,7 +14,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="mailto:ltahasahnn@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://icon2.cleanpng.com/20180320/vwe/avevnixls.webp" alt="email" width="30" height="30" />
+    <img src="https://cdn3.iconfinder.com/data/icons/web-ui-3/128/Mail-2-512.png" alt="email" width="30" height="30" />
   </a>
 </p>
 
