@@ -8,9 +8,8 @@
   <a href="https://www.linkedin.com/in/tahasahinn/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.instagram.com/ltahasahin/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="instagram" width="30" height="30" />
+    <img src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" alt="instagram" width="30" height="30" />
   </a>
 </p>
 
