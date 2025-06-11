@@ -14,7 +14,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="mailto:ltahasahnn@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/7718/7718904.png" alt="email" width="35" height="35" />
+    <img src="https://cdn-icons-png.flaticon.com/512/7718/7718904.png" alt="email" width="30" height="30" />
   </a>
 </p>
 
