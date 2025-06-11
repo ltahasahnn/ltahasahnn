@@ -44,8 +44,8 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
-  <a href="https://astro.build/" target="_blank" rel="noreferrer">
-    <img src="https://i.imgur.com/ARa3zXB.png" alt="astro" width="40" height="40"/>
+    <a href="https://astro.build/" target="_blank" rel="noreferrer">
+    <img src="https://astro.build/favicon/favicon-32x32.png" alt="astro" width="40" height="40" style="border-radius: 8px;" />
   </a>
 </p>
 
