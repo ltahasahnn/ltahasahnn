@@ -49,8 +49,6 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ltahasahnn&layout=compact&v=2" />
-    <img src="https://github-readme-stats.vercel.app/api?username=ltahasahnn&show_icons=true&locale=en" alt="ltahasahnn" />
-
 </div>
 
 
