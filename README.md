@@ -20,11 +20,16 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <!-- Next.js yerine eklendi -->
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="display:inline-block; width:40px; height:40px; border-radius:50%; background:white;">
-  <svg viewBox="0 0 24 24" fill="black" xmlns="http://www.w3.org/2000/svg" style="width:24px; height:24px; margin:8px auto; display:block;">
-    <path d="M7.12 21.93 0 12l7.12-9.93h2.87l-6.3 9.27 6.3 9.27H7.12Zm5.9-8.19 2.7-4.31a1.5 1.5 0 0 0-1.29-2.26h-4.1v2h3.2L11 11.35v.2l-2.2 3.51H6.65v2h7.15a1.5 1.5 0 0 0 1.29-2.26l-2.97-4.5Z"/>
-  </svg>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+  <img 
+    src="https://cdn.worldvectorlogo.com/logos/next-js.svg" 
+    alt="nextjs" 
+    width="40" 
+    height="40" 
+    style="background:white; border-radius:50%; padding:5px;"
+  /> 
 </a>
+
 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
