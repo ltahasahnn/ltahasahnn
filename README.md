@@ -5,10 +5,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.instagram.com/ltahasahin/" target="_blank">
+  <a href="https://www.instagram.com/ltahasahin/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" alt="instagram" width="30" height="30" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/tahasahinn/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ltahasahnn@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="email" width="30" height="30" />
+  </a>
 </p>
+
 
 <p align="left">
 </p>
