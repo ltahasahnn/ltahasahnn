@@ -51,5 +51,16 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ltahasahnn&layout=compact&v=2" />
 </div>
 
+<h3 align="left">GitHub Stats:</h3>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ltahasahnn&show_icons=true&locale=en" alt="ltahasahnn" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltahasahnn&layout=compact" alt="Top Langs" />
+</p>
+
+
 
 
