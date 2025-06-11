@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Taha</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on *-*
-
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **React**
-
 - 📫 How to reach me **ltahasahnn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/tahasahinn/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/ltahasahin/" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" height="30" width="40" />
+  </a>
+</p>
 
 <p align="left">
 </p>
@@ -41,8 +43,8 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
-  <a href="https://astro.build/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/astro/astro-icon.svg" alt="astro" width="40" height="40"/> 
+  <a href="https://astro.build/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/withastro/astro/main/assets/social/icon.png" alt="astro" width="40" height="40"/>
   </a>
 </p>
 
