@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Taha</h1>
 <h3 align="center">Front-end Web developer</h3>
 
-<div align="left">
-  <img src="https://wakatime.com/badge/user/018c1718-78e3-4100-9eda-35598edd25bc.svg" />
-</div>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.instagram.com/ltahasahin/" target="_blank" rel="noreferrer">
